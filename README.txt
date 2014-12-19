@@ -1,0 +1,6 @@
+"hello" 
+
+This is a local message...
+
+
+Added after commit and before add command....
