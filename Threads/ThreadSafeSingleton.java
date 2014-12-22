@@ -31,3 +31,4 @@ public class ThreadSafeSingleton
 		return myInstance;
 	}		
 }
+/* hello */
